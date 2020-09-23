@@ -4,7 +4,7 @@ subtitle: Steering wheel joystick
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: arduino.png
+img: Autosimulator.jpg
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: August 2017
