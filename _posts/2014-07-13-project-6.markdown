@@ -10,8 +10,8 @@ alt: image-alt
 project-date: August 2017
 client: 3DEXPERIENCE DELMIA
 category: System Engineering, Dynamic Behaviour and Modeling
-description: <strong>Challenge</strong>- Integrate the external hardware with the CATIA using the Arduino controller 
-description2: <strong>Description</strong>- Steering wheel joystick is used to apply brakes/steering inputs. Depending upon the control algorithm control actions are performed.
-description3: <strong>Result</strong>- The expected output of this model deals with the behavior of actuators and motors. It targets the crucial area of Systems Engineering like Testing and Virtual validations.
+description: <p style="font-size:18px;"><strong>Challenge</strong>- Integrate the external hardware using the <font color="ffaa71">CATIA Dynamic Behavior Modeling</font>,with the help of Arduino controller.</p>
+description2: <p style="font-size:18px;"><strong>Description</strong>- Steering wheel joystick is used to apply brakes/steering inputs. Depending upon the control algorithm control actions are performed.</p>
+description3: <p style="font-size:18px;"><strong>Result</strong>- The expected output of this model deals with the behavior of actuators and motors. It targets the crucial area of <font color="ffaa71">Systems Engineering</font> like Testing and Virtual validations.</p>
 video: Autosimulator.mp4
 ---
