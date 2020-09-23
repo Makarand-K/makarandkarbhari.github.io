@@ -11,6 +11,6 @@ alt: image-alt
 project-date: February 2018
 client: 3DEXPERIENCE CATIA
 category: Curve Based Design
-description: <strong>Challenge</strong>- To generate a mesh from a 3D point cloud data and to create a Class A surface by using curve-based approach.
+description: <p style="font-size:18px;"><strong>Challenge</strong>- To generate a mesh from a <font color="ffaa71">3D point cloud data</font> and to create a <font color="ffaa71">Class A</font> surface by using curve-based approach.</p>
 video: Reverse_Engineering.mp4
 ---
