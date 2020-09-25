@@ -22,7 +22,7 @@ if(empty($_POST['name']) ||
  $port = "587";/
  $username = "noreply@{domain}.com";
  $password = "{password}"
- $to = 'name@{domain}.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+ $to = 'makarandk50000@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
  $name = strip_tags(htmlspecialchars($_POST['name']));
  $email_address = strip_tags(htmlspecialchars($_POST['email']));
  $phone = strip_tags(htmlspecialchars($_POST['phone']));
